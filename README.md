@@ -9,5 +9,5 @@ paso2)definirla en variable de entorno
 
 paso3)ir a la carpeta de descarga y ejecutarlo
 
-paso4) escribir una linea de codigo con lo siguiente print("hola mundo")
+paso4) escribir una linea de codigo con lo siguiente print("hola mundo").py
 
